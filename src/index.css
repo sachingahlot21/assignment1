@@ -1,0 +1,49 @@
+*{
+  background-color: white;
+ box-sizing: border-box;
+}
+#maindiv{
+  margin-top: 20px;
+  width:60vw;
+  height:60vh;
+  background-color: white;
+  border: 2px solid black;
+}
+.heading{
+  background-color:white;
+ color:rgb(12, 174, 238) ;
+  text-align: center;
+
+}
+.formdiv{
+  border-bottom: 2px soild black;
+  width:100%;
+  height: 25%;
+  /* background-color: red; */
+}
+#datadiv{
+  width:100%;
+  height: 75%;
+  border-top: 2px solid black;
+  /* background-color: aqua; */
+}
+#dataheading{
+  margin-left: 10px;
+}
+#empDetails{
+  margin-top:20px ;
+  margin-left: 10px;
+}
+#inputbox{
+margin-right: 10px;
+}
+
+#btn{
+margin-left:10px ;
+background-color:rgb(12, 174, 238);
+color: white;
+}
+#nameoutput{
+ 
+  margin: 10px;
+}
